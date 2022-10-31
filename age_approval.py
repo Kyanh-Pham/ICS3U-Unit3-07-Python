@@ -9,7 +9,7 @@ import constants
 
 def main():
 
-    # This function sees if you guessed right or wrong
+    # This function sees if they can date
 
     # Input
     age_string = input("Please enter your age: ")
